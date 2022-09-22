@@ -1,4 +1,4 @@
-Copyright - Bloțiu Mihnea-Andrei - 313CA
+Copyright - Bloțiu Mihnea-Andrei
 
 Load Balancer - 09.05.2021
 
